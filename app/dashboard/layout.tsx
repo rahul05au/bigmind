@@ -1,6 +1,4 @@
 "use client";
-
-
 import SideNav from "./side-nav";
 
 export default function DashboardLayout({
